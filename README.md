@@ -4,7 +4,7 @@
 
    :radio_button::computer: I have been coding in C# and still learning more about it!<br/>
    :radio_button::book: I learned C# in udemy.<br/>
-   :radio_button::v: You can also check my <a href="https://book-sales-ely.azurewebsites.net/" target="_blank">e-commerce website project</a>.
+   :radio_button::v: You can also check my [project website]([https//](https://book-sales-ely.azurewebsites.net/)){:target="_blank"}.
    <!--:radio_button::v: You can check my <a href="" target="_blank">villa booking app</a>.<br/>
    :radio_button::v: This is the <a href="" target="_blank">API</a> of the <a href="" target="_blank">villa booking app</a>.<br/>-->
 
